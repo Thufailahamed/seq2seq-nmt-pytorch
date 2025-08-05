@@ -14,7 +14,7 @@ class TransformerConfig:
     decoder_depth: int = 6
 
     src_vocab_size: int = 30522
-    tgt_vocab_size: int = 32000
+    tgt_vocab_size: int = 31999
 
     max_src_len: int = 512
     max_tgt_len: int = 512
